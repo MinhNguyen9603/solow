@@ -1,0 +1,8 @@
+environment: streamlit
+plotly
+numpy
+scipy
+pandas
+py
+
+cd D:\Python\Solow
